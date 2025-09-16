@@ -70,6 +70,6 @@ cc_library_shared {
     export_include_dirs: [ "." ],
     include_dirs: [ "external/pdfium/third_party/lcms/include" ],
     local_include_dirs: [ "config" ],
-    required: [ "gs" ],
+    required: [  ],
 }
 
